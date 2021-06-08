@@ -1,2 +1,2 @@
 # hello-world
-Learning how to use GitHub!
+I am a new web developer learning how to use GitHub!
